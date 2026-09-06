@@ -1,0 +1,7 @@
+// Top-level build file.
+// Android Studio will use this to load the Android Gradle Plugin and dependencies.
+
+plugins {
+    id "com.android.application" version '8.13.2' apply false
+}
+
