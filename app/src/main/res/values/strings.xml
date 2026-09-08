@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyTube</string>
+    <string name="search_songs_hint">Search songs...</string>
+    <string name="brave_search_label">Brave Search</string>
+    <string name="youtube_search_label">YouTube Search</string>
+    <string name="no_internet_error">No internet connection.</string>
+    <string name="empty_search_error">Please enter a song name.</string>
+    <string name="search_failed_error">Search failed. Try again.</string>
+</resources>
